@@ -6,7 +6,9 @@ var rightArrow = document.querySelector(".rightArrow");
 var leftArrow = document.querySelector(".leftArrow");
 var playPauseBtn = document.getElementById("playPauseBtn");
 
+
 function initGallery() {
+
   slideIndex = 0;
 
   slides = document.getElementsByClassName("imgHolder");

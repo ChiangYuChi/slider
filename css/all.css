@@ -32,6 +32,7 @@ body {
   overflow: hidden;
   background-color: gainsboro;
   position: relative;
+  margin: 0 auto;
 }
 
 .galleryContainer .silderShowContainer .imgHolder {
